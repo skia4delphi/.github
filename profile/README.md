@@ -11,9 +11,3 @@ and guidance on this journey.
 Nevertheless, we invite you developer, interested in helping us to build a great tool 
 to collaborate and share some of your time. We are a very friendly and open-minded 
 community. and we hope we can do great things together.
-
-# What is Skia?
-Skia is an open source library for drawing 2D Text, Geometries, Images, focused on accurate, 
-high quality and high performance rendering, which provides common APIs that work across a 
-variety of hardware and software platforms, used by Chrome, Android, Flutter, Xamarin, 
-Mozilla Firefox, Firefox OS, and many other products.
